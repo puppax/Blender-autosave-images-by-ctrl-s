@@ -1,7 +1,7 @@
 # Blender-autosave-images-by-ctrl-s
 Automatically saves unsaved images to a specified folder when saving the .blend file, avoids name conflicts, can save only unpacked images, and provides manual save buttons with numbered suffix.
 
-# Auto Save Images with Blend / Blender 自动保存贴图插件
+# Blender 自动保存贴图插件
 
 **Version / 版本:** 1.0.0  
 **Blender Compatible / 适用 Blender 版本:** 4.0+  
