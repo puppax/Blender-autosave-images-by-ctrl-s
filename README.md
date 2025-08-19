@@ -3,7 +3,7 @@
 
 **Version / 版本:** 1.0.0  
 **Blender Compatible / 适用 Blender 版本:** 4.0+  
-**Author / 作者:** pp  
+**Author / 作者:** puppax lyu  
 **License / 许可证:** GPL-3.0  
 
 ---
@@ -118,8 +118,8 @@
 
 ## Support & Contribution / 支持与贡献
 
-- Please report issues or feature requests on the [GitHub Issues page](https://github.com/yourname/auto_save_images/issues).  
-    在 [GitHub Issues](https://github.com/yourname/auto_save_images/issues) 提交问题或功能需求。
+- Please report issues or feature requests on the [GitHub Issues page](https://github.com/puppax/Blender-autosave-images-by-ctrl-s/issues).  
+    在 [GitHub Issues](https://github.com/puppax/Blender-autosave-images-by-ctrl-s/issues) 提交问题或功能需求。
     
 - Contributions are welcome! Fork the repository, make your changes, and submit a pull request.  
     欢迎贡献！Fork 仓库、修改代码并提交 Pull Request。
