@@ -1,13 +1,6 @@
 
 # Blender Auto Save Images By ctrl S / Blender 自动保存贴图插件
 
-**Version / 版本:** 1.0.0  
-**Blender Compatible / 适用 Blender 版本:** 4.0+  
-**Author / 作者:** puppax lyu  
-**License / 许可证:** GPL-3.0  
-
----
-
 ## Overview / 插件概述
 
 **Auto Save Images with Blend** is a Blender add-on that automatically saves unsaved images when you save your `.blend` file. It also provides manual save buttons in the 3D View sidebar, allowing flexible control over your textures.
@@ -53,22 +46,6 @@
 
 ---
 
-## Installation / 安装方法
-
-1. Download the latest release `.zip` file from GitHub.  
-    从 GitHub 下载插件 `.zip` 文件。
-    
-2. In Blender: `Edit > Preferences > Add-ons > Install…`  
-    在 Blender 中打开：`编辑 > 首选项 > 插件 > 安装…`
-    
-3. Select the downloaded `.zip` file and enable the add-on.  
-    选择下载的 `.zip` 文件并启用插件。
-    
-4. You will find the panel in **3D View > Sidebar > AutoSave**.  
-    插件面板位于 **3D 视图 > 侧栏 > AutoSave**。
-    
-
----
 
 ## Usage / 使用方法
 
